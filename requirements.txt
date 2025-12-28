@@ -1,0 +1,11 @@
+opencv-python==4.6.0.66
+tensorflow
+matplotlib
+numba
+librosa
+numpy<2.0.0
+sounddevice
+PyQt5
+PyQt5-QtMultimedia
+scipy
+soundfile
